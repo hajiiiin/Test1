@@ -1,3 +1,3 @@
 # Test1
 
-printf("first test");
+first test
