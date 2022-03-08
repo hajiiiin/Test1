@@ -1,3 +1,3 @@
 # Test1
 
-first test
+print("first test");
